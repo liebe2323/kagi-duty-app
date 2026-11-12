@@ -1,0 +1,18 @@
+
+{
+  "name": "鍵当番 出欠確認",
+  "short_name": "鍵当番",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#17345c",
+  "icons": [
+    {
+      "src": "鍵当番アイコン.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
